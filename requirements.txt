@@ -1,12 +1,12 @@
-aiohttp==3.7.4
+aiohttp==3.14.4
 async-timeout==3.0.1
 attrs==18.2.0
 chardet==3.0.4
-idna==2.7
+idna==3.15
 multidict==4.4.2
 PyYAML>=4.2b1
 six==1.11.0
 telepot==12.7
 transmissionrpc==0.11
-urllib3==1.26.5
+urllib3==2.8.0
 yarl==1.2.6
